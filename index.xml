@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RUVI - Road-User / Vehicle Interaction group</title>
+    <link>https://ruvigroup.github.io/</link>
+    <description>Recent content on RUVI - Road-User / Vehicle Interaction group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2017 08:50:27 +0200</lastBuildDate>
+    
+	<atom:link href="https://ruvigroup.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://ruvigroup.github.io/about-us/</link>
+      <pubDate>Fri, 31 Mar 2017 08:50:27 +0200</pubDate>
+      
+      <guid>https://ruvigroup.github.io/about-us/</guid>
+      <description>Description Our group investigates and models how road users behave and interact with each other to safely complete their journeys. Currently we focus on drivers and cyclists and their interaction with automated vehicles.
+Our work is rooted in cognitive science and neuroscience, combines engineering and human factors, and relies on naturalistic and experimental data.
+Our research informs the development and evaluation of active safety systems and automated vehicles. Our results support policy makers and road authorities in their decision making.</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>https://ruvigroup.github.io/media/</link>
+      <pubDate>Fri, 31 Mar 2017 08:50:27 +0200</pubDate>
+      
+      <guid>https://ruvigroup.github.io/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ruvigroup.github.io/projects/</link>
+      <pubDate>Fri, 31 Mar 2017 08:50:27 +0200</pubDate>
+      
+      <guid>https://ruvigroup.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ruvigroup.github.io/publications/</link>
+      <pubDate>Fri, 31 Mar 2017 08:50:27 +0200</pubDate>
+      
+      <guid>https://ruvigroup.github.io/publications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
